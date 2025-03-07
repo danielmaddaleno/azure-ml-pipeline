@@ -62,3 +62,12 @@ Azure Functions · Azure Blob Storage · Scikit-learn · Pandas · Pydantic · A
 ## License
 
 MIT
+
+
+## Installation
+
+```bash
+git clone https://github.com/danielmaddaleno/azure-ml-pipeline.git
+cd azure-ml-pipeline
+pip install -r requirements.txt
+```
