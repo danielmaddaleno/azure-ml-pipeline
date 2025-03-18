@@ -91,3 +91,9 @@ make lint     # Linters
 ## Architecture
 
 See [docs/architecture.md](docs/architecture.md).
+
+## Roadmap
+
+- [ ] Improve test coverage
+- [ ] Add benchmarks
+- [ ] Docker support
