@@ -87,3 +87,7 @@ make install  # Install deps
 make test     # Run tests
 make lint     # Linters
 ```
+
+## Architecture
+
+See [docs/architecture.md](docs/architecture.md).
