@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Azure Function — BlobTrigger for ML inference pipeline.
 
 Fires when a CSV is uploaded to the ``input/`` container.
