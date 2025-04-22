@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Lazy model loader — singleton pattern for Azure Functions cold starts."""
 
 from __future__ import annotations
