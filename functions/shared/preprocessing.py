@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Feature preprocessing pipeline."""
 
 from __future__ import annotations
