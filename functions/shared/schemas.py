@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Pydantic-based input validation for incoming CSVs."""
 
 from __future__ import annotations
