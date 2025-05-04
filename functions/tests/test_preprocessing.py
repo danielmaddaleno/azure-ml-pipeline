@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Tests for the preprocessing module."""
 
 import numpy as np
