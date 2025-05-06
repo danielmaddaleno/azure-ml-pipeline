@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Daniel Maddaleno
 """Preprocessing — core implementation."""
 """Feature preprocessing pipeline."""
 
