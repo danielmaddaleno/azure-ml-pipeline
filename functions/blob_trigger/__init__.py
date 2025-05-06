@@ -46,3 +46,5 @@ def main(inputBlob: func.InputStream, outputBlob: func.Out[str]) -> None:
     output_csv = df.to_csv(index=False)
     outputBlob.set(output_csv)
     logger.info("Wrote predictions to output container")
+
+__all__: list[str] = []
