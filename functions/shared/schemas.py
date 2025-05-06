@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""Schemas — core implementation."""
 """Pydantic-based input validation for incoming CSVs."""
 
 from __future__ import annotations
