@@ -5,3 +5,9 @@ local.settings.json
 artifacts/
 .python_packages/
 .funcignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
