@@ -48,3 +48,5 @@ def main(inputBlob: func.InputStream, outputBlob: func.Out[str]) -> None:
     logger.info("Wrote predictions to output container")
 
 __all__: list[str] = []
+
+__version__ = "1.0.0"
