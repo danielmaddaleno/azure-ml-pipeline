@@ -10,3 +10,7 @@ Azure Ml Pipeline uses a modular architecture.
 - Configuration layer
 - Validation pipeline
 - API / CLI interface
+
+## Error Handling
+
+Public functions validate inputs and raise descriptive exceptions.
