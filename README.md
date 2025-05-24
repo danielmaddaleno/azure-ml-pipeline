@@ -1,3 +1,6 @@
+![Tests](https://github.com/danielmaddaleno/azure-ml-pipeline/actions/workflows/tests.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # ☁️ azure-ml-pipeline
 
 Serverless ML inference pipeline built on **Azure Functions** and **Azure Blob Storage**. Upload a CSV → trigger preprocessing → run model → write predictions back to Blob.
