@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""Test Trigger — automated test suite."""
 """Tests for the BlobTrigger function using mocks."""
 
 from unittest.mock import MagicMock, patch
